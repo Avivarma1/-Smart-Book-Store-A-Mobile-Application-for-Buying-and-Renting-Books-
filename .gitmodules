@@ -1,9 +1,0 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/Avivarma1/book-front.git
-[submodule "backend"]
-	path = backend
-	url = https://github.com/Avivarma1/book_back.git
-[submodule "infra"]
-	path = infra
-	url = https://github.com/Avivarma1/book-infra-tera.git
